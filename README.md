@@ -1,4 +1,4 @@
-# shayna
+# Kicks Supply
 
 ## Project setup
 ```
